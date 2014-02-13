@@ -16,7 +16,6 @@ public class CreateTempHomeCommand extends WaypointCommand implements Command{
 	@Override
 	public boolean execute(CommandSender executor, String identifier,
 			String[] args) {
-		// TODO Auto-generated method stub
 		return false;
 	}
 	
